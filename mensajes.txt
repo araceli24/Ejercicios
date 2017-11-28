@@ -1,0 +1,9 @@
+ana=hola que tal estas
+juan=yo estoy bien y tu
+ana=genial gracias
+roberto=podemos quedar mañana
+ana=estupendo me apunto
+juan=yo no puedo
+roberto=pues quedamos tu ana y yo. Chao
+juan=adios
+ana=vale, nos vemos
